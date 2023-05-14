@@ -1,10 +1,10 @@
 ---
 layout: page
-title: evo Up
+title: evo Western Seaboard
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h1 class="section-heading text-uppercase">Contact evo Up!</h1>
+	<h1 class="section-heading text-uppercase">Contact evo Western Seaboard</h1>
 </div>
 
 <br>
@@ -15,12 +15,11 @@ background: grey
   <div class="col-md">
 		<p>Tel: <a href="tel:+27210232228"> 021 023 2228</a></p>
 		<p>Cell: <a href="tel:+27844336333">084 433 6333</a></p>
-		<p>E-mail: <a href="mailto:evoup@evogroup.co.za?subject=Mail from our Website">evoup@evogroup.co.za</a></p>
+		<p>E-mail: <a href="mailto:michelle.mostert@evogroup.co.za?subject=Mail from our Website">michelle.mostert@evogroup.co.za</a></p>
     </div>
 
     <div class="col-md">
-		<p>Unit 01, We Got Building</p>
-		<p>C/O Otto Du Plessis Drive & 6th Avenue</p>
+		<p>Melkbos</p>
 		<p>Melkbosstrand</p>
 		<p>7441</p>
     </div>

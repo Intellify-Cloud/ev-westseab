@@ -1,0 +1,33 @@
+baseurl: "https://www.evoup.co.za"
+
+title      : evo Up, Bond Origination & Home Loans Experts in Cape Town, Melkbosstrand, Durbanville and Tableview.
+email      : evoup@evogroup.co.za
+description: Trust  evo Up! to get you the best deal on your homeloan and get you comparative quotes. Let us secure your bond finance. Many buyers choose us to manage their homeloans with the best rates. We service the Melkbosstrand, Durbanville, Blouberg and Tableview ereas.
+author     : Eben Roux / Pieter Oosthuizen
+
+analytics:
+  google: G-W52PC8KL9W
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+webserver_headers:
+  - - Access-Control-Allow-Origin
+    - "*"
+  - - Access-Control-Allow-Methods
+    - GET, OPTIONS, HEAD
+
+logo:
+  path: /assets/logo.png
+
+exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Group
+
+company: evo Up
+
+url: https://evohomeloans.co.za/bond-originator/cape-town/evoup-home-loans/
+
+address: Unit 01, We Got Building, C/O Otto Du Plessis Drive & 6th Avenue, Melkbosstrand, 7441

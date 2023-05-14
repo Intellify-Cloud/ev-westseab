@@ -1,12 +1,14 @@
-baseurl: "https://www.evoup.co.za"
+baseurl: ""
 
-title      : evo Up, Bond Origination & Home Loans Experts in Cape Town, Melkbosstrand, Durbanville and Tableview.
-email      : evoup@evogroup.co.za
-description: Trust  evo Up! to get you the best deal on your homeloan and get you comparative quotes. Let us secure your bond finance. Many buyers choose us to manage their homeloans with the best rates. We service the Melkbosstrand, Durbanville, Blouberg and Tableview ereas.
-author     : Eben Roux / Pieter Oosthuizen
+title      : evo Western Seaboard, Bond Origination & Home Loans Experts in Cape Town, Melkbosstrand, Melkbos Durbanville and Tableview.
+email      : michelle.mostert@evogroup.co.za
+description: evo Western Seaboard. Get the best home loan for you in Melkbosstrand, Durbanville, Blouberg and Tableview. We compare quotes from multiple lenders to find you the best deal. We also secure bond finance and manage your home loan. Contact us today to get started!
+Keywords: Home loans, Bond finance, Mortgages, Real estate, Western Seaboard, Melkbosstrand,Durbanville, Blouberg, Tableview, Melbos
+
+author     : Eben Roux / P Oosthuizen
 
 analytics:
-  google: G-W52PC8KL9W
+  google: 
 
 collections:
   portfolio:
@@ -20,14 +22,14 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/logo.png
+  path: /assets/evo western seaboard logo.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
 group: evo Group
 
-company: evo Up
+company: evo Western Seaboard
 
 url: https://evohomeloans.co.za/bond-originator/cape-town/evoup-home-loans/
 
-address: Unit 01, We Got Building, C/O Otto Du Plessis Drive & 6th Avenue, Melkbosstrand, 7441
+address: Melkbos, Melkbosstrand, 7441
